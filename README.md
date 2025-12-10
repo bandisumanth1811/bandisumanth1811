@@ -33,7 +33,7 @@
 ---
 
 ## 💬 **Ask Me About**
-✔️ Python, Data Analysis, Visualization
+✔️ Python, Data Analysis, Visualization  
 ✔️ Machine Learning  
 ✔️ Deep Learning & NLP  
 ✔️ Generative AI & RAG  
