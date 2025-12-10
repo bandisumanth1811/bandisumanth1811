@@ -1,6 +1,6 @@
 <!-- HEADER / BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&size=28&color=4BB543&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sumanth+Bandi!;Data+Scientist+%7C+AI+Engineer+%7C+ML+Researcher;Building+Intelligent+Systems+with+Data+%26+Deep+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&size=28&color=4BB543&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sumanth+Bandi!;Data+Scientist+%7C+AI+Engineer+%7C+ML+Researcher;-Building+Intelligent+Systems+with+Data+%26+Deep+Learning" />
 </p>
 
 ---
