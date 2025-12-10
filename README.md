@@ -44,7 +44,7 @@
 ## 📫 **Reach Me At**
 📧 **sumanthbandi178@gmail.com**  
 🌐 **GitHub:** [github.com/bandisumanth1811](https://github.com/bandisumanth1811)  
-🔗 **LinkedIn:** (https://www.linkedin.com/in/sumanthbandi/)
+🔗 **LinkedIn:** https://www.linkedin.com/in/sumanthbandi
 
 ---
 
