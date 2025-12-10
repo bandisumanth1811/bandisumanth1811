@@ -9,7 +9,7 @@
   
 ## 🚀 Data Scientist | AI/ML Researcher | Generative AI Practitioner  
 📍 Based in New York | 🎓 M.S. Data Science & Analytics  
-💡 Passionate about Machine Learning, Deep Learning, NLP, Computer Vision & Agentic AI  
+💡 Passionate about Machine Learning, Deep Learning, NLP, RAG & Agentic AI  
 
 </div>
 
@@ -33,10 +33,10 @@
 ---
 
 ## 💬 **Ask Me About**
+✔️ Python, Data Analysis, Visualization
 ✔️ Machine Learning  
 ✔️ Deep Learning & NLP  
 ✔️ Generative AI & RAG  
-✔️ Python, Data Analysis, Visualization  
 ✔️ ML Pipelines & Deployment  
 
 ---
@@ -44,7 +44,7 @@
 ## 📫 **Reach Me At**
 📧 **sumanthbandi178@gmail.com**  
 🌐 **GitHub:** [github.com/bandisumanth1811](https://github.com/bandisumanth1811)  
-🔗 **LinkedIn:** *add your link here*
+🔗 **LinkedIn:** *(https://www.linkedin.com/in/sumanthbandi/)*
 
 ---
 
@@ -83,7 +83,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=html" height="40"/>
 <img src="https://skillicons.dev/icons?i=css" height="40"/>
-<img src="https://skillicons.dev/icons?i=js" height="40"/>
+<img src="https://skillicons.dev/icons?i=streamlit" height="40"/>
 <img src="https://skillicons.dev/icons?i=flask" height="40"/>
 <img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
 <img src="https://skillicons.dev/icons?i=aws" height="40"/>
@@ -93,20 +93,20 @@
 
 # 📌 Featured Projects
 
-### 🌡️ **Soil Temperature Prediction – ANN vs ML**  
-✔ Built production ML pipeline  
-✔ 15% accuracy improvement  
-✔ Published research contribution  
-*(From résumé content: ANN, RF, XGBoost)* :contentReference[oaicite:1]{index=1}
-
----
-
 ### 🤖 **LLM-Powered Hybrid RAG System**  
 ✔ File-line accurate responses  
 ✔ Knowledge graph integration  
 ✔ Handles 500+ technical queries  
 ✔ Works with LLM tools and agentic workflows  
 :contentReference[oaicite:2]{index=2}
+
+---
+
+### 🌡️ **Soil Temperature Prediction – ANN vs ML**  
+✔ Built production ML pipeline  
+✔ 15% accuracy improvement  
+✔ Published research contribution  
+*(From résumé content: ANN, RF, XGBoost)* :contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -126,17 +126,6 @@
 
 ---
 
-# 📊 GitHub Stats
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bandisumanth1811&show_icons=true&theme=react" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bandisumanth1811&theme=react" />
-</p>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandisumanth1811&layout=compact&theme=react" />
-</p>
-
----
 
 # 🏆 Achievements
 - ✔ Published research for **TRB submissions**  
