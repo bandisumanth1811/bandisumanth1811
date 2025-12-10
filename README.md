@@ -1,7 +1,7 @@
-<!-- HEADER / BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&size=28&color=4BB543&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sumanth+Bandi!;Data+Scientist+%7C+AI+Engineer+%7C+ML+Researcher;-Building+Intelligent+Systems+with+Data+%26+Deep+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=28&duration=3500&pause=700&color=1E90FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Sumanth+Bandi;Data+Scientist+%7C+AI+Engineer+%7C+ML+Researcher;Turning+Data+Into+Intelligent+Solutions;Passionate+About+AI%2C+ML%2C+Deep+Learning" />
 </p>
+
 
 ---
 
@@ -16,8 +16,8 @@
 ---
 
 ## 🔭 **What I’m Working On**
-- 🌡️ **Soil Temperature Prediction using ANN vs ML models** (Published research)  
-- 🤖 **Hybrid RAG + Agentic AI Chatbot** handling domain-specific technical queries  
+- 🤖 **Hybrid RAG + Agentic AI Chatbot** handling domain-specific technical queries
+- 🌡️ **Soil Temperature Prediction using ANN vs ML models** (Published research)    
 - 🧠 **Deep Learning for Crisis Detection (92% precision)**  
 - 🛠️ **DIGGS XML Conversion & Validator System**  
 - 🧩 **Large Codebase RAG (50k–500k LOC) using Tree-sitter + Tools**
@@ -44,7 +44,7 @@
 ## 📫 **Reach Me At**
 📧 **sumanthbandi178@gmail.com**  
 🌐 **GitHub:** [github.com/bandisumanth1811](https://github.com/bandisumanth1811)  
-🔗 **LinkedIn:** *(https://www.linkedin.com/in/sumanthbandi/)*
+🔗 **LinkedIn:** (https://www.linkedin.com/in/sumanthbandi/)
 
 ---
 
@@ -83,7 +83,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=html" height="40"/>
 <img src="https://skillicons.dev/icons?i=css" height="40"/>
-<img src="https://skillicons.dev/icons?i=streamlit" height="40"/>
+<img src="https://skillicons.dev/icons?i=js" height="40"/>
 <img src="https://skillicons.dev/icons?i=flask" height="40"/>
 <img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
 <img src="https://skillicons.dev/icons?i=aws" height="40"/>
@@ -97,8 +97,7 @@
 ✔ File-line accurate responses  
 ✔ Knowledge graph integration  
 ✔ Handles 500+ technical queries  
-✔ Works with LLM tools and agentic workflows  
-:contentReference[oaicite:2]{index=2}
+✔ Works with LLM tools and agentic workflows
 
 ---
 
@@ -106,15 +105,13 @@
 ✔ Built production ML pipeline  
 ✔ 15% accuracy improvement  
 ✔ Published research contribution  
-*(From résumé content: ANN, RF, XGBoost)* :contentReference[oaicite:1]{index=1}
 
 ---
 
 ### 🆘 **Crisis Classification (NLP Project)**  
 ✔ Deep learning pipeline  
 ✔ 92% precision  
-✔ Automated emergency response system  
-:contentReference[oaicite:3]{index=3}
+✔ Automated emergency response system
 
 ---
 
@@ -122,7 +119,6 @@
 ✔ Predicts >$50k income  
 ✔ Flask + AWS + MongoDB deployment  
 ✔ Latency reduced 40%  
-:contentReference[oaicite:4]{index=4}
 
 ---
 
@@ -132,7 +128,6 @@
 - ✔ Built ML models processing **50k+ data points**  
 - ✔ Experience working with **LLMs, Transformers, RAG systems**  
 - ✔ Production-level ML deployment experience  
-:contentReference[oaicite:5]{index=5}
 
 ---
 
