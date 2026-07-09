@@ -116,7 +116,7 @@ Streamlit • Flask • FastAPI • HTML • CSS • JavaScript • Git • GitH
 
 💼 **LinkedIn:** https://www.linkedin.com/in/sumanthbandi/
 
-🌍 **Portfolio:** *(Add your portfolio URL here once published)*
+🌍 **Portfolio:** *-*
 
 💻 **GitHub:** https://github.com/bandisumanth1811
 
