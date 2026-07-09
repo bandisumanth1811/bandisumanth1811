@@ -1,135 +1,137 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=28&duration=3500&pause=700&color=1E90FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Sumanth+Bandi;Data+Scientist+%7C+AI+Engineer+%7C+ML+Researcher;Turning+Data+Into+Intelligent+Solutions;Passionate+About+AI%2C+ML%2C+Deep+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=28&duration=3500&pause=700&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Sumanth+Bandi;AI+%26+Machine+Learning+Engineer;Data+Scientist+%7C+Researcher;Building+Intelligent+AI+Solutions;Machine+Learning+%7C+LLMs+%7C+NLP+%7C+Generative+AI" />
 </p>
 
+<h1 align="center">Sumanth Bandi</h1>
 
----
+<h3 align="center">
+AI & Machine Learning Engineer • Data Scientist • Researcher
+</h3>
 
-<div align="center">
-  
-## 🚀 Data Scientist | AI/ML Researcher | Generative AI Practitioner  
-📍 Based in New York | 🎓 M.S. Data Science & Analytics  
-💡 Passionate about Machine Learning, Deep Learning, NLP, RAG & Agentic AI  
-
-</div>
-
----
-
-## 🔭 **What I’m Working On**
-- 🤖 **Hybrid RAG + Agentic AI Chatbot** handling domain-specific technical queries
-- 🌡️ **Soil Temperature Prediction using ANN vs ML models** (Published research)    
-- 🧠 **Deep Learning for Crisis Detection (92% precision)**  
-- 🛠️ **DIGGS XML Conversion & Validator System**  
-- 🧩 **Large Codebase RAG (50k–500k LOC) using Tree-sitter + Tools**
-
----
-
-## 🌱 **What I’m Learning & Improving**
-- Advanced **Deep Learning** (LSTMs, CNNs, Transformers)  
-- **LLM Workflows**, Prompt Engineering, Fine-tuning  
-- **AWS + Data Engineering Pipelines**  
-- Full-stack ML Deployment with **Flask / FastAPI / Streamlit**
-
----
-
-## 💬 **Ask Me About**
-✔️ Python, Data Analysis, Visualization  
-✔️ Machine Learning  
-✔️ Deep Learning & NLP  
-✔️ Generative AI & RAG  
-✔️ ML Pipelines & Deployment  
-
----
-
-## 📫 **Reach Me At**
-📧 **sumanthbandi178@gmail.com**  
-🌐 **GitHub:** [github.com/bandisumanth1811](https://github.com/bandisumanth1811)  
-🔗 **LinkedIn:** [linkedin.com/in/sumanthbandi](https://www.linkedin.com/in/sumanthbandi/)
-
----
-
-# 🤝 **Connect With Me**
-<p align="left">
-<a href="https://github.com/bandisumanth1811"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-<a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="mailto:sumanthbandi178@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<p align="center">
+🎓 M.S. in Data Science & Analytics, SUNY Polytechnic Institute <br>
+📍 New York, USA <br>
+💡 Passionate about Machine Learning, Generative AI, NLP, Computer Vision, and Intelligent Data Systems
 </p>
 
 ---
 
-# 🧰 **Languages & Tools**
+## 👋 About Me
 
-### 🧠 AI / ML / DL
-<p>
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
-<img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
-<img src="https://skillicons.dev/icons?i=opencv" height="40"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+I'm an AI and Machine Learning Engineer with experience developing predictive models, NLP pipelines, Retrieval-Augmented Generation (RAG) systems, and data-driven applications. My work combines research and software engineering to build scalable, practical AI solutions for real-world problems.
+
+My interests include:
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 Large Language Models (LLMs)
+* 🔍 Retrieval-Augmented Generation (RAG)
+* 💬 Natural Language Processing
+* 📊 Data Science & Predictive Analytics
+* ☁️ AI Application Development & Deployment
+
+---
+
+## 🔬 Current Focus
+
+* Building LLM-powered RAG applications
+* Developing Agentic AI workflows
+* Research in Machine Learning and Intelligent Transportation Systems
+* Exploring scalable AI deployment using FastAPI and cloud technologies
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 LLM-Powered RAG Assistant
+
+* Retrieval-Augmented Generation using LangChain and vector databases
+* Context-aware document question answering
+* Modular AI workflow with scalable architecture
+
+### 🌡️ Soil Temperature Prediction
+
+* Machine learning models for multi-depth soil temperature prediction
+* Comparative evaluation of ANN, Random Forest, XGBoost, and Linear Regression
+* Research presented at the Transportation Research Board (TRB)
+
+### 🌪️ Disaster Intelligence using NLP
+
+* Two-stage NLP framework for disaster-related social media classification
+* Automated classification of emergency information from Reddit
+* Machine learning pipeline for crisis intelligence
+
+### 📈 Machine Learning Applications
+
+* End-to-end predictive modeling
+* Feature engineering and model optimization
+* Interactive dashboards and data visualization
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+Python • SQL • Java • C • C++
+
+### Machine Learning & AI
+
+Scikit-learn • TensorFlow • Keras • XGBoost • Hugging Face • LangChain • OpenAI APIs
+
+### Data Science
+
+Pandas • NumPy • Matplotlib • Seaborn • Power BI • Tableau
+
+### Databases
+
+MySQL • MongoDB
+
+### Web & Deployment
+
+Streamlit • Flask • FastAPI • HTML • CSS • JavaScript • Git • GitHub
+
+---
+
+## 📚 Research & Publications
+
+* Machine Learning for Soil Temperature Prediction
+* Social Media Intelligence for Disaster Management using NLP
+* Transportation Research Board (TRB) Research Contributions
+
+---
+
+## 📈 Currently Learning
+
+* Advanced Deep Learning
+* Transformer Architectures
+* Agentic AI Systems
+* MLOps & Cloud Deployment
+* Scalable AI Infrastructure
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** [sumanthbandi178@gmail.com](mailto:sumanthbandi178@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/sumanthbandi/
+
+🌍 **Portfolio:** *(Add your portfolio URL here once published)*
+
+💻 **GitHub:** https://github.com/bandisumanth1811
+
+---
+
+## 📊 GitHub
+
+* Machine Learning Projects
+* AI Research
+* Data Science Applications
+* Open Source Contributions
+* End-to-End AI Solutions
+
+---
+
+<p align="center">
+Thank you for visiting my profile! ⭐
 </p>
-
-### 📊 Data Science & Analysis
-<p>
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3182bd?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge"/>
-</p>
-
-### 🌐 Web Development & Deployment
-<p>
-<img src="https://skillicons.dev/icons?i=html" height="40"/>
-<img src="https://skillicons.dev/icons?i=css" height="40"/>
-<img src="https://skillicons.dev/icons?i=js" height="40"/>
-<img src="https://skillicons.dev/icons?i=flask" height="40"/>
-<img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
-<img src="https://skillicons.dev/icons?i=aws" height="40"/>
-</p>
-
----
-
-# 📌 Featured Projects
-
-### 🤖 **LLM-Powered Hybrid RAG System**  
-✔ File-line accurate responses  
-✔ Knowledge graph integration  
-✔ Handles 500+ technical queries  
-✔ Works with LLM tools and agentic workflows
-
----
-
-### 🌡️ **Soil Temperature Prediction – ANN vs ML**  
-✔ Built production ML pipeline  
-✔ 15% accuracy improvement  
-✔ Published research contribution  
-
----
-
-### 🆘 **Crisis Classification (NLP Project)**  
-✔ Deep learning pipeline  
-✔ 92% precision  
-✔ Automated emergency response system
-
----
-
-### 💵 **Income Prediction ML System**  
-✔ Predicts >$50k income  
-✔ Flask + AWS + MongoDB deployment  
-✔ Latency reduced 40%  
-
----
-
-
-# 🏆 Achievements
-- ✔ Published research for **TRB submissions**  
-- ✔ Built ML models processing **50k+ data points**  
-- ✔ Experience working with **LLMs, Transformers, RAG systems**  
-- ✔ Production-level ML deployment experience  
-
----
-
-# 🙌 Thanks for visiting!
-⭐ *Don’t forget to star repositories if they inspire you!*  
