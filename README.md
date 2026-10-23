@@ -1,137 +1,82 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=28&duration=3500&pause=700&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Sumanth+Bandi;AI+%26+Machine+Learning+Engineer;Data+Scientist+%7C+Researcher;Building+Intelligent+AI+Solutions;Machine+Learning+%7C+LLMs+%7C+NLP+%7C+Generative+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=28&duration=3500&pause=700&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Sumanth+Bandi;AI%2FML+Engineer;LLMs+%7C+RAG+%7C+Agentic+AI;Geospatial+ML+%26+NLP+Research" />
 </p>
 
 <h1 align="center">Sumanth Bandi</h1>
 
-<h3 align="center">
-AI & Machine Learning Engineer • Data Scientist • Researcher
-</h3>
+<h3 align="center">AI/ML Engineer • Generative AI • Applied ML Research</h3>
 
 <p align="center">
 🎓 M.S. in Data Science & Analytics, SUNY Polytechnic Institute <br>
-📍 New York, USA <br>
-💡 Passionate about Machine Learning, Generative AI, NLP, Computer Vision, and Intelligent Data Systems
+📍 Utica, New York, USA <br>
+💼 Open to full-time AI/ML Engineer, GenAI, and Applied ML roles
 </p>
 
 ---
 
 ## 👋 About Me
 
-I'm an AI and Machine Learning Engineer with experience developing predictive models, NLP pipelines, Retrieval-Augmented Generation (RAG) systems, and data-driven applications. My work combines research and software engineering to build scalable, practical AI solutions for real-world problems.
-
-My interests include:
-
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧠 Large Language Models (LLMs)
-* 🔍 Retrieval-Augmented Generation (RAG)
-* 💬 Natural Language Processing
-* 📊 Data Science & Predictive Analytics
-* ☁️ AI Application Development & Deployment
+I'm an AI/ML Engineer with 4+ years of experience across industry and research, building machine learning, NLP, and Generative AI solutions from data to deployment. I turn research ideas into reliable software: LLM-powered backends, RAG systems, and geospatial ML.
 
 ---
 
-## 🔬 Current Focus
+## 🔬 What I'm Working On
 
-* Building LLM-powered RAG applications
-* Developing Agentic AI workflows
-* Research in Machine Learning and Intelligent Transportation Systems
-* Exploring scalable AI deployment using FastAPI and cloud technologies
+* 🤖 **Backend AI systems:** real-time LLM streaming, RAG-based memory, semantic caching, multi-provider failover, and cost controls (FastAPI, PostgreSQL/pgvector, Redis, GCP)
+* 🗺️ **3D borehole interpolation:** comparing 11 model setups under strict leave-one-borehole-out testing, with expansion to larger datasets and Transformer-based models planned
+* 🌊 **Coastal Road Vulnerability Index:** an AI-driven index built in Google Earth Engine, piloted on Ocean Parkway, Long Island, with plans to expand across New York's coastline
+* 🌪️ **Disaster intelligence NLP:** BERT classification and LangGraph agents over social media streams
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 LLM-Powered RAG Assistant
-
-* Retrieval-Augmented Generation using LangChain and vector databases
-* Context-aware document question answering
-* Modular AI workflow with scalable architecture
-
-### 🌡️ Soil Temperature Prediction
-
-* Machine learning models for multi-depth soil temperature prediction
-* Comparative evaluation of ANN, Random Forest, XGBoost, and Linear Regression
-* Research presented at the Transportation Research Board (TRB)
-
-### 🌪️ Disaster Intelligence using NLP
-
-* Two-stage NLP framework for disaster-related social media classification
-* Automated classification of emergency information from Reddit
-* Machine learning pipeline for crisis intelligence
-
-### 📈 Machine Learning Applications
-
-* End-to-end predictive modeling
-* Feature engineering and model optimization
-* Interactive dashboards and data visualization
+| Project | What it does | Links |
+|---|---|---|
+| **Hybrid Code-RAG with MCP Tools** | Repository assistant that routes questions between document search and code tools in an iterative FastMCP reasoning loop | [Demo](https://hybrid-chatbot-using-mcp.streamlit.app/) · [Code](https://github.com/bandisumanth1811/Hybrid-version-of-RAG-Simple-and-Agentic-using-MCP) |
+| **Social Media Disaster Detection** | Real-time pipeline that classifies disaster posts with fine-tuned BERT, with a geospatial dashboard and alerts | [Demo](https://harnessing-social-media-data-for-natural-disaster-information.streamlit.app/) · [Code](https://github.com/bandisumanth1811/Harnessing-Social-Media-Data-for-Natural-Disaster-Information) |
+| **Soil Temperature Prediction** | LSTM and gradient-boosting ensemble with 7-day multi-depth forecasts | [Demo](https://soiltemperatureprediction.streamlit.app/) · [Code](https://github.com/bandisumanth1811/Soil-Temperature-Prediction) |
+| **GenAI Practice Lab** | Daily hands-on LLM apps, RAG pipelines, model serving, and local models | [Code](https://github.com/bandisumanth1811/Gen_AI_Practice_Lab) |
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+**Generative AI:** LLMs • RAG • Agentic workflows (LangGraph, LangChain, MCP) • Prompt engineering • Embeddings • Semantic caching • OpenAI • Gemini
 
-Python • SQL • Java • C • C++
+**Machine Learning & NLP:** Python • SQL • scikit-learn • XGBoost • TensorFlow • PyTorch • LSTM • BERT • Hugging Face • Time series • K-Means • PCA
 
-### Machine Learning & AI
+**Backend & Data:** FastAPI • AsyncIO • WebSockets • REST APIs • PostgreSQL • pgvector • Redis • ChromaDB • SQLAlchemy • Alembic • Pytest
 
-Scikit-learn • TensorFlow • Keras • XGBoost • Hugging Face • LangChain • OpenAI APIs
+**Cloud & DevOps:** GCP (Cloud Run, Cloud SQL, Memorystore, Cloud Build, Cloud Monitoring) • Docker • Git • Prometheus
 
-### Data Science
-
-Pandas • NumPy • Matplotlib • Seaborn • Power BI • Tableau
-
-### Databases
-
-MySQL • MongoDB
-
-### Web & Deployment
-
-Streamlit • Flask • FastAPI • HTML • CSS • JavaScript • Git • GitHub
+**Geospatial & Visualization:** Google Earth Engine • Sentinel/Landsat • Kriging/IDW • Streamlit • Plotly • Folium • Kepler.gl • Power BI
 
 ---
 
 ## 📚 Research & Publications
 
-* Machine Learning for Soil Temperature Prediction
-* Social Media Intelligence for Disaster Management using NLP
-* Transportation Research Board (TRB) Research Contributions
+* 🎤 **Presented at the Transportation Research Board (TRB) Annual Meeting**
+* [Advancing Subgrade Temperature Prediction Through Machine Learning-Based Tool Development](https://drive.google.com/file/d/1dS78fL0fHFwsBA1DeTcR8ClhyEatasog/view?usp=sharing)
+* [Harnessing Social Media Data for Natural Disaster Information: A Case Study on Hurricane and Wildfire Posts on Reddit](https://drive.google.com/file/d/1CjTNbzuOnJ1eQNwVw9EtCYQbnP_feiSo/view?usp=sharing)
+* [Automated Conversion of Geotechnical Borehole Logs into DIGGS 2.6 XML and Interactive 3D Visualizations](https://drive.google.com/file/d/1Xx-2u3lVy7klnAKz2NrUDF8aMMTGow8Y/view)
 
 ---
 
 ## 📈 Currently Learning
 
-* Advanced Deep Learning
-* Transformer Architectures
-* Agentic AI Systems
-* MLOps & Cloud Deployment
-* Scalable AI Infrastructure
+* Agentic AI systems and evaluation
+* Advanced RAG and LLM guardrails
+* MLOps and scalable deployment on the cloud
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 **Email:** [sumanthbandi178@gmail.com](mailto:sumanthbandi178@gmail.com)
-
-💼 **LinkedIn:** https://www.linkedin.com/in/sumanthbandi/
-
-🌍 **Portfolio:** *https://bandisumanth1811.github.io/My-Portfolio/*
-
-💻 **GitHub:** https://github.com/bandisumanth1811
+📧 [bandis1811@gmail.com](mailto:bandis1811@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/sumanthbandi/)
+🌍 [Portfolio](https://bandisumanth1811.github.io/My-Portfolio/)
 
 ---
 
-## 📊 GitHub
-
-* Machine Learning Projects
-* AI Research
-* Data Science Applications
-* Open Source Contributions
-* End-to-End AI Solutions
-
----
-
-<p align="center">
-Thank you for visiting my profile! ⭐
-</p>
+<p align="center">Thanks for visiting! ⭐</p>
